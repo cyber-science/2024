@@ -16,7 +16,7 @@ Lamezia Terme Airport (or Lamezia Terme Train Station) to Eurolido Hotel (and vi
 - 40&euro; one way fixed rate for 4 passengers.<br/>
 <i>Note</i>: If there will be other participants arriving at the same time, the shuttle service will arrange only one transfer to permit the sharing of the cost among the participants.<br/>  
 
-<b>IEEE CPDC2022 Package</b>: Check-in September 11th - Check-out September 15th:<br/>
+<b>CPDC2022 Package</b>: Check-in September 11th - Check-out September 15th:<br/>
 - Single Room - Full Board: 390&euro; per person<br/>
 - Double Room - Full Board: 290&euro; per person<br/>
 

@@ -4,7 +4,7 @@ layout: subpi2
 permalink: /picom/callworkshops/
 ---
 
-<h3>Call For Workshops and Special Sessions - IEEE PICom 2024</h3>
+<h3>Call For Workshops and Special Sessions - PICom 2024</h3>
 <hr/>
 <h5> ** Download <b>PDF version <a href="http://cyber-science.org/2024/assets/files/ws-ss/picom/PICom_Call_for_WkspSS.pdf" target=_new>here</a></b> ** </h5> 
 
@@ -44,31 +44,3 @@ A single pdf file with all the material described above should be prepared. Plea
 - Workshop/SS Paper Due: July 15, 2024
 - Authors Notification: September 15, 2024
 - Camera-ready Submission: September 15, 2024
-
-
-
-<!--- COMMENTED
-<hr/>
-<h4>Call For Papers for Special Sessions</h4>
-<ol><li><a href="/2022/assets/files/2021IEEE CyberScience_Cyber-IoT_Workshop.docx" target=_new>Computing and Applications for Cyber Internet of Things (Cyber-IoT)</a>
- </li>
-<li><a href="/2022/assets/files/CyberIC_2021_CFP.docx" target=_new> Special Session on Intelligent Computing in Cyber-Physical Social Systems (CyberIC) </a>
-</li>
-</ol>
- 
- <h4>Call For Workshop Proposals</h4>
-<ol> 
- <li><a href="/2022/assets/files/ACE2021_CFPpost_workshop.pdf" target=_new>The 5th International Workshop on
-Applications of AI, Cyber Security and Economics Big Data (ACE-2021)</a>
- </li>
- <li><a href="/2022/assets/files/CFP_IoT Life2021.pdf" target=_new>The
-2nd IEEE international workshop on the Impact of Internet of Things on Daily Life  (IoT Life)</a>
- </li>
-
- <li><a href="/2022/assets/files/BigCyberSecurity2021-CFPV2.pdf" target=_new>
-The 3rd IEEE International Workshop on Big Data Analytics for Cyber Security and Defence</a>
- </li>
-
-</ol>
-<br/>
--->

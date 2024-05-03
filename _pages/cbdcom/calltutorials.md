@@ -7,7 +7,7 @@ permalink: /cbdcom/calltutorials/
 <h3>Page under construction!</h3>
 
 <!--- COMMENTED
-<h3>Call For Tutorials - IEEE CBDCom</h3>
+<h3>Call For Tutorials - CBDCom</h3>
 
 <hr/>
 <p>In order to bridge the gap between research and real-world applications, CBDCOM’2021 solicits proposals for conventional and hands-on tutorials. Tutorial duration is two hours. Tutorials are aimed to cover topics in any of the following conference tracks or related topic:

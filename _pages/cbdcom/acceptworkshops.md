@@ -4,10 +4,10 @@ layout: subcbd2
 permalink: /cbdcom/acceptworkshops/
 ---
 
-<h3>Special Sessions - IEEE CBDCom 2024</h3>
+<h3>Special Sessions - CBDCom 2024</h3>
 <hr/>
 
-<h3>Workshops - IEEE CBDCom 2024</h3>
+<h3>Workshops - CBDCom 2024</h3>
 <hr/>
 
 <!-- <ol>

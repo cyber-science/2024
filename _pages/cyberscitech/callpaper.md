@@ -5,10 +5,10 @@ permalink: /cyberscitech/callpaper/
 ---
 
 
-<h3>Call For Papers - IEEE CyberSciTech 2024 Tracks and Topics</h3>
+<h3>Call For Papers - CyberSciTech 2024 Tracks and Topics</h3>
 <hr/>
 
-<h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2024/assets/files/CyberSciTech2024_CFP.pdf" target=_new>here</a></b> ** </h5> 
+<h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2024/assets/files/CyberSciTech2024_CFP_noieee.pdf" target=_new>here</a></b> ** </h5> 
 
 <hr/>
 <h4 style="font-weight: bold">For Regular Papers<h4>

@@ -4,7 +4,7 @@ layout: subcst2
 permalink: /cyberscitech/acceptworkshops/
 ---
 
-<h3>Special Sessions - IEEE CyberSciTech 2024</h3>
+<h3>Special Sessions - CyberSciTech 2024</h3>
 <hr>
 <ol>
 <li><a href="http://cyber-science.org/2024/assets/files/ws-ss/cst/Cyber-IoT2024_CFP.pdf" target=_new><u>Special Session on Computing and Applications for Cyber Internet of Things (Cyber-IoT 2024)</u></a></li>
@@ -12,7 +12,7 @@ permalink: /cyberscitech/acceptworkshops/
 </ol>
 
 
-<h3>Workshops - IEEE CyberSciTech 2024</h3>
+<h3>Workshops - CyberSciTech 2024</h3>
 <hr/>
 <ol>
 

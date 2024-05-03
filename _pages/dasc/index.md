@@ -14,8 +14,8 @@ permalink: /dasc/
 </p>
 
 <p>
-IEEE DASC 2024 will be held during November 5-8, 2024, in Boracay Island, Malay, Philippines, co-located with <a href="http://cyber-science.org/2024/cyberscitech/">IEEE CyberSciTech 2024</a>, 
-<a href="http://cyber-science.org/2024/picom/">IEEE PICom 2024</a>, and <a href="http://cyber-science.org/2024/cbdcom/">IEEE CBDCom 2024</a>. It aims to bring together computer scientists, industrial engineers, and researchers to discuss and exchange theoretical and implementation results, novel designs, work-in-progress, experience, case studies, and trend-setting ideas in the areas of dependability, security, trust, and/or autonomic computing, and autonomous systems.
+DASC 2024 will be held during November 5-8, 2024, in Boracay Island, Malay, Philippines, co-located with <a href="http://cyber-science.org/2024/cyberscitech/">CyberSciTech 2024</a>, 
+<a href="http://cyber-science.org/2024/picom/">PICom 2024</a>, and <a href="http://cyber-science.org/2024/cbdcom/">CBDCom 2024</a>. It aims to bring together computer scientists, industrial engineers, and researchers to discuss and exchange theoretical and implementation results, novel designs, work-in-progress, experience, case studies, and trend-setting ideas in the areas of dependability, security, trust, and/or autonomic computing, and autonomous systems.
 </p>
 <p>
 <b>Topics of interest</b> include, but are not restricted to:
