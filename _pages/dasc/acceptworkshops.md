@@ -15,7 +15,7 @@ permalink: /dasc/acceptworkshops/
 <li><a href="/2022/assets/files/ws-ss/cst/EDCSTA2022_CFP.pdf" target=_new>The 6th International Workshop on Emerging Dependable Computing System Technologies and Applications (EDCSTA 2022)</a></li>
 </ol>  -->
 
-<h3>Workshops - DASC 2024</h3>
+<h3>Workshops - IEEE DASC 2024</h3>
 <hr/>
 <ol>
 <li>The 8th International Workshop on Emerging Dependable Computing System Technologies and Applications (EDCSTA 2024)</li>
