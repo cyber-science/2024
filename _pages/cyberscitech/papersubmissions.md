@@ -24,10 +24,10 @@ permalink: /cyberscitech/papersubmissions/
 <li><b>Special Session (SS) papers</b> should present substantial, original, completed, and unpublished work focus on emerging topics, specific research domains, or interdisciplinary areas. Wherever significant contributions to advance the state-of-the-art in the specific research domain or interdisciplinary area should be included.</li>
 </ul>
 </p><p>
-Papers should be prepared in IEEE CS Proceedings format. IEEE formatting information:<br>
-<a href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html" target=_new>http://www.ieee.org/conferences_events/conferences/publishing/templates.html</a>
+Papers should be prepared in IEEE CS Proceedings format. IEEE formatting information: <a href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html" target=_new>http://www.ieee.org/conferences_events/conferences/publishing/templates.html</a>
 </p><p>
-All accepted papers in the main tracks, workshops, special sessions and demos/posters wil be published in an lEEE ComputerSociety proceedings (IEEE-DL and El indexed). Best Paper Awards will be presented to high quality papers. Selected papers will be recommended to prestigious journal <b>
+All accepted papers in the main tracks, workshops, and special sessions will be published in an IEEE Computer Society proceedings (IEEE-DL and EI indexed). 
+Best Paper Awards will be presented to high quality papers. Selected papers will be recommended to prestigious journal <b>
 <a href="http://cyber-science.org/2024/special-issues/" target=_new>Special Issues</a></b>. 
 </p><p>
 Some papers originally submitted as full papers can be accepted as short papers during the review process. In such cases, the authors will need to reduce the paper accordingly when preparing the camera-ready version. At least one of the authors of any accepted paper is requested to register and present the paper at the conference.
