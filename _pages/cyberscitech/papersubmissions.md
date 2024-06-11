@@ -24,7 +24,7 @@ permalink: /cyberscitech/papersubmissions/
 <li><b>Special Session (SS) papers</b> should present substantial, original, completed, and unpublished work focus on emerging topics, specific research domains, or interdisciplinary areas. Wherever significant contributions to advance the state-of-the-art in the specific research domain or interdisciplinary area should be included.</li>
 </ul>
 </p><p>
-Papers should be prepared in lEEE CS Proceedings format. lEEE formatting information:</p>
+Papers should be prepared in lEEE CS Proceedings format. lEEE formatting information:<br>
 http://www.ieee.org/conferences_events/conferences/publishing/templates.html
 </p><p>
 All accepted papers in the main tracks, workshops, special sessions and demos/posters wil be published in an lEEE ComputerSociety proceedings (lEEE-DL and El indexed). Best Paper Awards will be presented to high quality papers. Selected papers will be recommended to prestigious journal <b>
