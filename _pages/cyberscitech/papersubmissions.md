@@ -26,7 +26,7 @@ permalink: /cyberscitech/papersubmissions/
 </p><p>
 
 Papers should be prepared in lEEE CS Proceedings format. lEEE formatting information:
-http://www.ieee.org/conferences events/conferences/publishing/templates.html
+http://www.ieee.org/conferences_events/conferences/publishing/templates.html
 
 All accepted papers in the main tracks, workshops, special sessions and demos/posters wil be published in an lEEE ComputerSociety proceedings (lEEE-DL and El indexed). Best Paper Awards will be presented to high quality papers. Selected papers will be recommended to prestigious journal <b>
 <a href="http://cyber-science.org/2024/special-issues/" target=_new>Special Issues</a></b>. 
