@@ -16,7 +16,7 @@ permalink: /panel/
 <br/><b>Claudio Miceli</b>, Graduate Program in Systems Engineering and Computer Science, Federal University of Rio de Janeiro, Brazil
 <br/><b>Antonio Guerrieri</b>, Institute for High-Performance Computing and Networking, National Research Council of Italy, Italy
 <br/><b>Chuan-Yu Chang</b>, Department of Computer Science and Information Engineering, National Yunlin University of Science and Technology, Taiwan
-<br/><br/><b>Panel Secretary: </b>
+<br/><br/><b>Panel Coordinator: </b>
 <br/><b>Ao Guo</b>, Graduate School of Informatics, Nagoya University, Japan
 <br/>
 
